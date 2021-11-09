@@ -226,11 +226,13 @@
 .section-title_theme_dark {
 color: #ffffff;
 width: 60%;
+margin-top: 0;
 z-index: 3;
 }
 
 .section-subtitle_theme_dark {
   width: 60%;
+  margin: 0;
   color: #ffffff;
 }
 
